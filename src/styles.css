@@ -13,4 +13,10 @@ body {
   padding: 10px;
   border: 2px dotted mediumblue;
   width: 50%;
+  font-size: 24px;
+}
+
+#myIMG {
+  width: 100px;
+  height: 100px;
 }
